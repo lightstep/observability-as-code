@@ -1,2 +1,2 @@
-# observability-landscape-as-code
-Observability Landscape-as-Code
+# observability-as-code
+Observability-as-Code
