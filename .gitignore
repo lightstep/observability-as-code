@@ -1,0 +1,8 @@
+*.tfvars
+*/.terraform/*
+*/.terraform*
+*/terraform.tfstate*
+terraform.tfstate*
+*.terraform
+*tfstate*
+*.DS_Store*
